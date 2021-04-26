@@ -1,2 +1,2 @@
-# portflolio_1
-mac redesign
+# portflolio1
+맥 리디자인
